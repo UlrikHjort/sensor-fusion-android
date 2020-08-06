@@ -1,0 +1,1 @@
+Test of fusion of accelerometer, gyroscope and magnometer sensors wtih complementary filter and Kalman filter in Android phone for attitude measurement
